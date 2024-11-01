@@ -1,7 +1,5 @@
 ### Hi, Ben here 👋
 
-<p align='right'><img src="https://visitor-badge.glitch.me/badge?page_id=bgelens.visitor-badge"></p>
-
 I'm a Consultant / Engineer / Developer at [Wortell](https://github.com/wortell) and I love to code!
 
 - 📫 How to reach me:
